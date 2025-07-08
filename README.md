@@ -1,3 +1,6 @@
+![Screenshot 2025-07-08 163533](https://github.com/user-attachments/assets/d7a58244-01e2-4d0b-9275-015f31f91d68)
+![Screenshot 2025-07-08 163525](https://github.com/user-attachments/assets/779bd5cb-9c81-46ee-8dbf-c94a62abe621)
+![Screenshot 2025-07-08 163511](https://github.com/user-attachments/assets/ef751589-6134-4145-86c5-571c19a9abea)
 
 # Welcome to My Meals App! 🎉
 
