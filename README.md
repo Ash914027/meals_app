@@ -21,7 +21,7 @@ The **Meals App** is designed to help users manage and explore various meal reci
 ### Prerequisites
 Make sure you have the following installed:
 - Node.js (version >= 14)
-- npm (Node package manager)
+- npm (Node package manager).
 
 ### Installation Steps
 1. **Clone the repository**:  
