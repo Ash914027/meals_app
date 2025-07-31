@@ -11,7 +11,7 @@ The **Meals App** is designed to help users manage and explore various meal reci
 
 ## Features 🌟
 - **User-friendly interface** 🖥️
-- **Fast performance** ⚡
+- **Fast performance**. ⚡
 - **Cross-platform compatibility** 🌍
 - **Recipe search functionality** 🔍
 - **Favorites list** ❤️
